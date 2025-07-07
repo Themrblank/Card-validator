@@ -1,2 +1,3 @@
 # Card-validator
-Luth algorithm
+
+Card validator code using luhn algorithm
